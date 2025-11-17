@@ -49,7 +49,8 @@ git clone <URL_DE_TU_FORK>
 3. Configura el repositorio original como `upstream`:
 
 ```
-git remote add upstream https://github.com/<PROFESOR>/OpenFoodDocs-2025
+git remote add upstream https://github.com/ffguardia/OpenFoodDocs-2025
+
 git fetch upstream
 ```
 
