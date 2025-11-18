@@ -103,6 +103,7 @@ Si es tu primera participación:
 
 ✔ añade tu nombre a `CONTRIBUTORS.md`.
 
+
 ---
 
 ¡Gracias por colaborar! 🍽️✨
