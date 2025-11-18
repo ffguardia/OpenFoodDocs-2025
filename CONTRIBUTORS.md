@@ -14,5 +14,5 @@
 
 Formato:
 
-- Nombre Apellidos — [@usuario](https://github.com/usuario)
+- Mohamed Kadi Brikoui — [@Moha-Kadi](https://github.com/Moha-Kadi)
 
