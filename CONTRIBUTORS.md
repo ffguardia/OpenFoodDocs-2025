@@ -14,5 +14,5 @@
 
 Formato:
 
-- Nombre Apellidos — [@usuario](https://github.com/usuario)
+- Oscar Manuel Benito Martín — [@OsquerM](https://github.com/OsquerM)
 
