@@ -102,7 +102,7 @@ Soluciona, commit, push.
 Si es tu primera participación:
 
 ✔ añade tu nombre a `CONTRIBUTORS.md`.
-
+@OsquerM
 ---
 
 ¡Gracias por colaborar! 🍽️✨
