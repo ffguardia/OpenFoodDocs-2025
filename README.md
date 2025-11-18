@@ -8,6 +8,7 @@ GitHub avanzado** mediante trabajo colaborativo.
 
 ------------------------------------------------------------------------
 
+
 ## 🎯 Objetivos del proyecto
 
 -   Trabajar con GitHub Flow (issue → branch → commit → PR → review →
@@ -20,6 +21,7 @@ GitHub avanzado** mediante trabajo colaborativo.
 -   Crear documentación estructurada usando Markdown.
 
 ------------------------------------------------------------------------
+
 
 ## 📂 Estructura del repositorio
 
@@ -38,6 +40,7 @@ GitHub avanzado** mediante trabajo colaborativo.
         └── utensilios/
 
 ------------------------------------------------------------------------
+
 
 ## 🧩 Cómo contribuir
 
@@ -78,6 +81,7 @@ Closes #NUMERO
 
 ------------------------------------------------------------------------
 
+
 ## 🧪 Integración continua
 
 Este repositorio incluye validación automática.\
@@ -88,6 +92,7 @@ Los pull requests deben:
 ✔ Ser revisados antes del merge.
 
 ------------------------------------------------------------------------
+
 
 ## 🏷️ Versionado
 
@@ -101,11 +106,13 @@ Historial completo: `CHANGELOG.md`.
 
 ------------------------------------------------------------------------
 
+
 ## 📜 Licencia
 
 Este proyecto utiliza la licencia **MIT**.
 
 ------------------------------------------------------------------------
+
 
 ## 👥 Créditos
 
@@ -114,6 +121,7 @@ Mantenido por **Francisco Fernández Guardia (@ffguardia)**.
 Participantes: `CONTRIBUTORS.md`.
 
 ------------------------------------------------------------------------
+
 
 ## 🚀 Bienvenido
 
