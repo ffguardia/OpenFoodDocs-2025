@@ -14,5 +14,4 @@
 
 Formato:
 
-- Nombre Apellidos — [@usuario](https://github.com/usuario)
-
+- Issa El Mokadem [@issx03](https://github.com/issx03)
