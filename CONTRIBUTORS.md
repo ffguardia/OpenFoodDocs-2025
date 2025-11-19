@@ -14,5 +14,5 @@
 
 Formato:
 
-- Nombre Apellidos — [@usuario](https://github.com/usuario)
+- Jose Ignacio Barranco Ruiz  — [@jbarrui587](https://github.com/jbarrui587/OpenFoodDocs-2025.git)
 
