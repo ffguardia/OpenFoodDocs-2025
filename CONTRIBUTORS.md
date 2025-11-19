@@ -14,5 +14,5 @@
 
 Formato:
 
-- Nombre Apellidos — [@usuario](https://github.com/usuario)
+- Jannik Jendryewski — [@jjannik1](https://github.com/jjannik1)
 
