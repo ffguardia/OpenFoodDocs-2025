@@ -14,5 +14,5 @@
 
 Formato:
 
-- Nombre Apellidos — [@usuario](https://github.com/usuario)
+- Cristóbal Fuentes — [@cfuemol](https://github.com/cfuemol/OpenFoodDocs-2025.git)
 
