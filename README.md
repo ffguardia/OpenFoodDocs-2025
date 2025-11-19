@@ -121,14 +121,19 @@ Tu primera contribución empieza reclamando una issue.
 
 ## Tabla de contenidos
 
-Archivo | Definición | Enlaces
-CHANGELOG.md | documento de la organización de las actualizaciones | 
-CODE_OF_CONDUCT.md | Reglas de conducta |
-CONTRUIBUTING.md | Pasos para contribuir al proyecto |
-CONTRIBUTORS.md | Lista de contribuidores del proyecto |
-LICENSE | Licencia |
-README.md | Información del proyecto | 
-docs | Carpeta con documentos del proyecto | 
-docs/nutricion | Carpeta con documentos de nutrición |[nutricion](./docs/nutricion)
-docs/recetas | Carpeta con documentos de recetas | [recetas](./docs/recetas)
-docs/utensilios | Carpeta con documentos de utensilios | [utensilios](./docs/utensilios) 
+# Tabla de Contenido
+
+| Archivo              | Descripción                                   |  Enlace |
+|----------------------|-----------------------------------------------|-----------------|
+| CHANGELOG.md         | Documento de la organización de actualizaciones | —               |
+| CODE_OF_CONDUCT.md   | Reglas de conducta                            | —               |
+| CONTRIBUTING.md      | Pasos para contribuir al proyecto             | —               |
+| CONTRIBUTORS.md      | Lista de contribuidores del proyecto          | —               |
+| LICENSE              | Licencia                                      | —               |
+| README.md            | Información del proyecto                      | —               |
+| docs/                | Carpeta con documentos del proyecto           | —               |
+| docs/nutricion       | Carpeta con documentos de nutrición           | [nutricion](./docs/nutricion/)       |
+| docs/recetas         | Carpeta con documentos de recetas             | [recetas](./docs/recetas)         |
+| docs/utensilios      | Carpeta con documentos de utensilios          | [utensilios](./docs/utensilios/)      |
+
+
