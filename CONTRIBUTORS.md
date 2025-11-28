@@ -14,6 +14,7 @@
 
 Formato:
 
+- Mohamed Kadi Brikoui — [@Moha-Kadi](https://github.com/Moha-Kadi)
 - Oscar Manuel Benito Martín — [@OsquerM](https://github.com/OsquerM)
 - Cristóbal Fuentes — [@cfuemol](https://github.com/cfuemol/OpenFoodDocs-2025.git)
 - Jose Ignacio Barranco Ruiz  — [@jbarrui587](https://github.com/jbarrui587/OpenFoodDocs-2025.git)
